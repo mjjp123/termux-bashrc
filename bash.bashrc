@@ -1,7 +1,7 @@
 #######################################
 #                                     #
 # Termux bash.bashrc                  #
-# Modified by: KNIGHTFALL             #
+# Modified by: Mjjp123                #
 #                                     #
 # Last modified: 2023/09/18           #
 #                                     #
@@ -11,7 +11,7 @@
 
 # User name
 #change your user name here
-user_name="termux"
+user_name="Mjjp123"
 
 # Default editor
 editor="nano"
@@ -126,7 +126,7 @@ alias untar='tar -zxvf '
 alias wget='wget -c '
 alias genpass='openssl rand -base64 12'
 alias phttp='python -m http.server 8000'
-alias kn='python /data/data/com.termux/files/home/keynote/keynote.py' # https://github.com/knightfall-cs/keynote
+alias kn='python /data/data/com.termux/files/home/keynote/keynote.py' # https://github.com/Mjjp123/keynote
 
 
 #### Functions ########################
