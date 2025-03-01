@@ -8,7 +8,7 @@ Custom termux bash.bashrc file with preset aliases and terminal splash screen.
 
 1. Clone the repository.
 ```
-cd $HOME && git clone https://github.com/knightfall-cs/termux-bashrc.git
+cd $HOME && git clone https://github.com/Mjjp123/termux-bashrc.git
 ```
 2. Backup your current .bashrc file.
 ```
@@ -27,4 +27,4 @@ cd termux-bashrc && cp bash.bashrc /data/data/com.termux/files/usr/etc && exit
 - You can also customize prompt color scheme and symbol by changing preferred variables in # Prompt.
 
 ---
-Author: KNIGHTFALL
+Author: Mjjp123 
